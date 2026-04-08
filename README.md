@@ -5,6 +5,7 @@
 <!-- LEADERBOARD_START -->
 | Rank | Player | Highest Level | Timestamp (UTC) |
 |------|-------|---------------|-----------------|
+| 1 | nilanjanchavan | 1 | 2026-04-08 17:31:22 |
 <!-- LEADERBOARD_END -->
 
 ---
